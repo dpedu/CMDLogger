@@ -1,0 +1,6 @@
+name: CMDLogger
+main: me.dpedu.cmdlogger.CMDLogger
+version: 0.1
+description: Logs player and op commands to log files.
+author: dpedu
+commands:
